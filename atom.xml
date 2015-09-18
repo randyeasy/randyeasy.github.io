@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[凡星的技术博客]]></title>
+  <title><![CDATA[小黄人的技术博客]]></title>
   <link href="http://yanxiaoliang-bjhl.github.io/atom.xml" rel="self"/>
   <link href="http://yanxiaoliang-bjhl.github.io/"/>
-  <updated>2015-09-18T16:55:10+08:00</updated>
+  <updated>2015-09-18T17:26:31+08:00</updated>
   <id>http://yanxiaoliang-bjhl.github.io/</id>
   <author>
     <name><![CDATA[闫晓亮]]></name>
