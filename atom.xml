@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Randy的技术博客]]></title>
-  <link href="http://yanxiaoliang-bjhl.github.io/atom.xml" rel="self"/>
-  <link href="http://yanxiaoliang-bjhl.github.io/"/>
-  <updated>2015-09-18T17:35:21+08:00</updated>
-  <id>http://yanxiaoliang-bjhl.github.io/</id>
+  <link href="http://randyeasy.github.io/atom.xml" rel="self"/>
+  <link href="http://randyeasy.github.io/"/>
+  <updated>2015-09-18T18:21:26+08:00</updated>
+  <id>http://randyeasy.github.io/</id>
   <author>
     <name><![CDATA[闫晓亮]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://yanxiaoliang-bjhl.github.io/blog/2015/09/18/hello-world/"/>
+    <link href="http://randyeasy.github.io/blog/2015/09/18/hello-world/"/>
     <updated>2015-09-18T15:52:49+08:00</updated>
-    <id>http://yanxiaoliang-bjhl.github.io/blog/2015/09/18/hello-world</id>
+    <id>http://randyeasy.github.io/blog/2015/09/18/hello-world</id>
     <content type="html"><![CDATA[<blockquote><p>Hello world!</p></blockquote>
 ]]></content>
   </entry>

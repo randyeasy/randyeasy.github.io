@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://yanxiaoliang-bjhl.github.io/sitemap.xml 
+Sitemap: http://randyeasy.github.io/sitemap.xml 
