@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://yanxiaoliang-bjhl.github.io/sitemap.xml 
